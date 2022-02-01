@@ -51,11 +51,14 @@ section{
 }
 .abc{
     background-image: linear-gradient(45deg,navy,mediumturquoise);
-    border-radius: 5px;
+    border-radius: 15px;
     padding: 20px;
     width: 600px;
     margin-left: 350px;
 }
 .color{
     color: gray;
+}
+.xyz{
+    padding: 70px;
 }
